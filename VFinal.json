@@ -72,7 +72,7 @@
         "preloadAsMusic": false,
         "preloadAsSound": false,
         "preloadInCache": false,
-        "userAdded": false
+        "userAdded": true
       },
       {
         "alwaysLoaded": false,
